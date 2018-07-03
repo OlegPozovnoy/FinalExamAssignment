@@ -1,0 +1,43 @@
+body {
+
+   background-image: url('../img/764746.jpg');
+
+}
+
+h1{
+    text-align: center;
+    font-size: 72px;
+    color: white;
+	text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+
+}
+
+ul{
+list-style-type:  none;
+color:white;
+text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+
+li{
+    text-align: left;
+    font-size: 24px;
+    color:white;
+	text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+label{
+    color:white;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+/*button, input, optgroup, select, textarea {
+    color: black; 
+}*/
+
+
+p{
+    text-align: center !important;
+    font-size: 24px !important;
+    color:black !important;
+}
